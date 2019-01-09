@@ -10,24 +10,24 @@ Time spent: **0.5** hours spent in total
 
 The following **required** functionality is complete:
 
-* [O] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
-* [X] Settings page to change the default tip percentage.
-* [X] UI animations
-* [X] Remembering the bill amount across app restarts (if <10mins)
-* [X] Using locale-specific currency and currency thousands separators.
-* [X] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [ ] Settings page to change the default tip percentage.
+* [ ] UI animations
+* [ ] Remembering the bill amount across app restarts (if <10mins)
+* [ ] Using locale-specific currency and currency thousands separators.
+* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-- [X] List anything else that you can get done to improve the app functionality!
+- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/AIRCtU8' title='Tip Calculator Video Walk Through' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/AIRCtU8"><a href="//imgur.com/AIRCtU8">Tip Calculator Video Walk Through</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
